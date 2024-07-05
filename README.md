@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ankitchavhan212@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ankitchavhan/Business-cases/blob/main/Ankit%20Chavhan-resume.pdf](https://github.com/ankitchavhan/Business-cases/blob/main/Ankit%20Chavhan-resume.pdf)
+- 📄 Know about my experiences [https://github.com/ankitchavhan/Business-cases/blob/main/Ankit%20Chavhan_resume.pdf](https://github.com/ankitchavhan/Business-cases/blob/main/Ankit%20Chavhan_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
